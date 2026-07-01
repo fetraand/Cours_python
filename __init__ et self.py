@@ -22,4 +22,3 @@ if __name__ == "__main__":
     # 2. Syntaxe explicite (équivalent exact de ce que Python fait en arrière-plan)
     # On passe l'objet directement en argument à la méthode de la classe.
     Batiment.afficher(bungalow)
-s
