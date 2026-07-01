@@ -1,6 +1,6 @@
 # Tout comprendre sur `round()` en Python 🐍
 
-Ce guide explique le fonctionnement de la fonction `round()`, ses pièges (comme le *banker's rounding*) et son application concrète pour l'exercice `ft_plant_growth.py`.
+Ce guide explique le fonctionnement de la fonction `round()`, ses pièges (comme le *banker's rounding*) et son application concrète pour l'exercice `python01/ex2/ft_plant_growth.py`.
 
 ---
 
