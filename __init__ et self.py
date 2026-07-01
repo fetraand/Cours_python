@@ -5,7 +5,7 @@ class Batiment:
         self.name = name
         self.taille = taille
         self.couleur = couleur
-    def afficher(self):  
+    def afficher(self):
         print(f"{self.name} est {self.taille} avec une couleur {self.couleur}")
 
 
