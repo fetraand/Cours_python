@@ -68,6 +68,6 @@ Le setter agit comme un agent de sécurité à l'entrée :
 - si elle est valide, il l'enregistre ;
 - sinon, il rejette la modification et affiche un message d'erreur, préservant ainsi l'intégrité de la plante.
 
-### Validation à l'initialisation __init__ (`self.set_height(height)`)
+### Validation à l'initialisation `__init__` (`self.set_height(height)`)
 
 Même lors de la création initiale de l'objet, les données fournies pourraient être mauvaises. C'est pourquoi le code vérifie également les valeurs dans le `__init__`. Si une valeur négative est passée à la création, la plante est créée avec une valeur par défaut (`0.0`) pour éviter un crash, et le message d'erreur est affiché.
